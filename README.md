@@ -1,4 +1,13 @@
-## Hi there 👋
+### Hi, I'm Vinoth 👋
+
+- 🎓 B.E. CSE (Cyber Security), Velammal Engineering College
+- 🔐 Practicing CTFs on picoCTF — [@Robinxheart](https://www.picoctf.org)
+- 💻 Learning full-stack web development (HTML, CSS, JS → React/Node)
+- 🧠 Solving DSA problems on [LeetCode](https://leetcode.com/u/vinothpaulraj/)
+- 🎯 Goal: freelancing in web development , bugbounty
+-  💻 Linkedin https://www.linkedin.com/in/vinoth-paulraj-d-7a3837383/
+
+📫 Reach me: vinothpaulraj06@gmail.com
 
 <!--
 **robinxheart/robinxheart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
